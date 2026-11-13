@@ -18,3 +18,7 @@ testem.log
 nohup.out
 
 .DS_Store
+
+# Local development files
+.direnv/
+.env
